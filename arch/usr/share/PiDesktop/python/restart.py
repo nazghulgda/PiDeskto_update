@@ -3,7 +3,7 @@
 import RPi.GPIO as GPIO
 import time
 import os,sys
-import signal
+# import signal
 
 GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BOARD)
